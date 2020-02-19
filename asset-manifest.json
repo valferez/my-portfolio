@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vincealferezdev/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/vincealferezdev/static/js/main.cb2eecb4.chunk.js",
+    "main.js.map": "/vincealferezdev/static/js/main.cb2eecb4.chunk.js.map",
+    "runtime-main.js": "/vincealferezdev/static/js/runtime-main.49cf9f1a.js",
+    "runtime-main.js.map": "/vincealferezdev/static/js/runtime-main.49cf9f1a.js.map",
+    "static/js/2.9cc97dde.chunk.js": "/vincealferezdev/static/js/2.9cc97dde.chunk.js",
+    "static/js/2.9cc97dde.chunk.js.map": "/vincealferezdev/static/js/2.9cc97dde.chunk.js.map",
+    "index.html": "/vincealferezdev/index.html",
+    "precache-manifest.4cb491b0b3c94b910c99e3dafe745a6e.js": "/vincealferezdev/precache-manifest.4cb491b0b3c94b910c99e3dafe745a6e.js",
+    "service-worker.js": "/vincealferezdev/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/vincealferezdev/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9cc97dde.chunk.js.LICENSE.txt": "/vincealferezdev/static/js/2.9cc97dde.chunk.js.LICENSE.txt",
+    "static/media/aspnet.png": "/vincealferezdev/static/media/aspnet.3cfbd1b0.png",
+    "static/media/bootstrap.png": "/vincealferezdev/static/media/bootstrap.b0eadec8.png",
+    "static/media/myphoto.jpg": "/vincealferezdev/static/media/myphoto.30a9cf19.jpg",
+    "static/media/starrynight.jpg": "/vincealferezdev/static/media/starrynight.da1b4cea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49cf9f1a.js",
+    "static/js/2.9cc97dde.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cb2eecb4.chunk.js"
+  ]
+}

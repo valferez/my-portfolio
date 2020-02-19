@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.c4ab9cb8.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.c4ab9cb8.chunk.js.map",
-    "runtime-main.js": "/my-portfolio/static/js/runtime-main.d96a2d46.js",
-    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.d96a2d46.js.map",
-    "static/js/2.0449a75b.chunk.js": "/my-portfolio/static/js/2.0449a75b.chunk.js",
-    "static/js/2.0449a75b.chunk.js.map": "/my-portfolio/static/js/2.0449a75b.chunk.js.map",
-    "index.html": "/my-portfolio/index.html",
-    "precache-manifest.2e1f352544464720a01da3e1e7531d20.js": "/my-portfolio/precache-manifest.2e1f352544464720a01da3e1e7531d20.js",
-    "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/my-portfolio/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.0449a75b.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.0449a75b.chunk.js.LICENSE.txt",
-    "static/media/aspnet.png": "/my-portfolio/static/media/aspnet.3cfbd1b0.png",
-    "static/media/bootstrap.png": "/my-portfolio/static/media/bootstrap.b0eadec8.png",
-    "static/media/myphoto.jpg": "/my-portfolio/static/media/myphoto.30a9cf19.jpg",
-    "static/media/starrynight.jpg": "/my-portfolio/static/media/starrynight.da1b4cea.jpg"
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.10b44927.chunk.js",
+    "main.js.map": "/static/js/main.10b44927.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e3441cc1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e3441cc1.js.map",
+    "static/js/2.4fedbc03.chunk.js": "/static/js/2.4fedbc03.chunk.js",
+    "static/js/2.4fedbc03.chunk.js.map": "/static/js/2.4fedbc03.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2e115159ec3520f12ca3160615b197fd.js": "/precache-manifest.2e115159ec3520f12ca3160615b197fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4fedbc03.chunk.js.LICENSE.txt": "/static/js/2.4fedbc03.chunk.js.LICENSE.txt",
+    "static/media/aspnet.png": "/static/media/aspnet.3cfbd1b0.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.b0eadec8.png",
+    "static/media/myphoto.jpg": "/static/media/myphoto.30a9cf19.jpg",
+    "static/media/starrynight.jpg": "/static/media/starrynight.da1b4cea.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d96a2d46.js",
-    "static/js/2.0449a75b.chunk.js",
+    "static/js/runtime-main.e3441cc1.js",
+    "static/js/2.4fedbc03.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c4ab9cb8.chunk.js"
+    "static/js/main.10b44927.chunk.js"
   ]
 }
